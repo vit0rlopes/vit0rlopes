@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vitor Lopes
 
-- 🔭 Hoje estou a proccura de um estágio
+- 🔭 Hoje estou a procura de um estágio
 - 🌱 Cursando Sistema da informação (Esse semestre estudando python)
 - 📫 Contate-me no email: contatovitorlopes07@gmail.com
 - 😄 Pronouns: ele/dele
